@@ -1,8 +1,8 @@
 # Aneris
 
-Aneris is an AI-powered desktop companion that brings AI assistance, voice interaction, screenshot-based
-context, and a keyboard-controlled virtual cursor into one lightweight Windows overlay — helping you stay
-productive without constantly switching between tools.
+Aneris is an AI-powered desktop companion that brings AI assistance, voice interaction, and screenshot-based
+context into one lightweight Windows overlay — helping you stay productive without constantly switching
+between tools.
 
 This repository ships the **built app only**. The source code is kept private; releases are published here.
 
@@ -31,7 +31,6 @@ re-download the installer for future releases.
 | Ctrl+Shift+L | Manual listening: start recording, press again to stop and send |
 | Ctrl+Shift+Space | Add a screenshot to the tray (nothing sends until you ask a question) |
 | Ctrl+Shift+H | Show or hide the window |
-| Ctrl+Shift+M | Toggle the keyboard-driven virtual cursor (arrows move, Enter clicks, Esc exits) |
 | Ctrl+Shift+K | Turn click-through on or off |
 | Ctrl+Shift+C | Start a new chat |
 
